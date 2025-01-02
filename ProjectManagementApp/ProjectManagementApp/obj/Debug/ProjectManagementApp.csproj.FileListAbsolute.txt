@@ -1,0 +1,18 @@
+C:\Users\Muharrem Pehlevan\source\repos\ProjectManagementApp\ProjectManagementApp\bin\Debug\ProjectManagementApp.exe.config
+C:\Users\Muharrem Pehlevan\source\repos\ProjectManagementApp\ProjectManagementApp\bin\Debug\ProjectManagementApp.exe
+C:\Users\Muharrem Pehlevan\source\repos\ProjectManagementApp\ProjectManagementApp\bin\Debug\ProjectManagementApp.pdb
+C:\Users\Muharrem Pehlevan\source\repos\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.csproj.AssemblyReference.cache
+C:\Users\Muharrem Pehlevan\source\repos\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.Properties.Resources.resources
+C:\Users\Muharrem Pehlevan\source\repos\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.csproj.GenerateResource.cache
+C:\Users\Muharrem Pehlevan\source\repos\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\Muharrem Pehlevan\source\repos\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.exe
+C:\Users\Muharrem Pehlevan\source\repos\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.pdb
+C:\Users\memet\Desktop\ProjectManagementApp\ProjectManagementApp\bin\Debug\ProjectManagementApp.exe.config
+C:\Users\memet\Desktop\ProjectManagementApp\ProjectManagementApp\bin\Debug\ProjectManagementApp.exe
+C:\Users\memet\Desktop\ProjectManagementApp\ProjectManagementApp\bin\Debug\ProjectManagementApp.pdb
+C:\Users\memet\Desktop\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.csproj.AssemblyReference.cache
+C:\Users\memet\Desktop\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.Properties.Resources.resources
+C:\Users\memet\Desktop\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.csproj.GenerateResource.cache
+C:\Users\memet\Desktop\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.csproj.CoreCompileInputs.cache
+C:\Users\memet\Desktop\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.exe
+C:\Users\memet\Desktop\ProjectManagementApp\ProjectManagementApp\obj\Debug\ProjectManagementApp.pdb
