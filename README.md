@@ -20,4 +20,4 @@ Projeden istenenler:
  
  🆗 Çalışanın zamanında tamamladığı proje görevleri, zamanında tamamlayamadığı proje görevleri sayılarla ifade edilerek ilgili sayfada  gösterilir.
 
- Tüm istenirler uygulanmıltır.
+ Tüm istenirler uygulanmıştır.
